@@ -1,5 +1,3 @@
-# Web-Development-Reference-Handbook
-A comprehensive Web development reference handbook for beginners, covering modern Web concepts, frontend/backend basics, database, HTTP, and AI-assisted development workflows.
 
 # 🌐 现代 Web 开发参考手册（AI 辅助版）
 
