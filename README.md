@@ -86,7 +86,4 @@ A comprehensive Web development reference handbook for beginners, covering moder
 
 本手册采用 [MIT License](LICENSE) 开源，欢迎 Fork 和 Star。
 
----
 
-📌 **如果你正在准备复试或求职**：本仓库与你毕设项目代码仓库形成“项目代码 + 系统性知识手册”的组合，可在简历或邮件中同时附上两个链接，展示你在“工程落地”和“知识整理”两个方向上的成果。
-```
